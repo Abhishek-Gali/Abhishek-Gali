@@ -6,7 +6,7 @@ Cybersecurity & AI • Building systems that matter • Crafting fun stuff I wan
 
 <br/>
 
-<!-- Subscription & Daily AI Tools -->
+<!-- Active Daily Drivers & Subscriptions -->
 [![ChatGPT Plus](https://img.shields.io/badge/ChatGPT-Plus-E52E71?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Claude Pro](https://img.shields.io/badge/Claude-Pro-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Grok Super](https://img.shields.io/badge/Grok-Super-000000?style=flat-square&logo=x&logoColor=white)](https://x.ai)
@@ -14,7 +14,7 @@ Cybersecurity & AI • Building systems that matter • Crafting fun stuff I wan
 
 <br/>
 
-<!-- Stack & Tooling Breakdown -->
+<!-- Tech Stack Breakdown -->
 <table>
   <tr>
     <td align="right"><b>Daily</b></td>
@@ -44,7 +44,7 @@ Cybersecurity & AI • Building systems that matter • Crafting fun stuff I wan
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Infra</b></td>
+    <td align="right"><b>Infra & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
@@ -58,22 +58,34 @@ Cybersecurity & AI • Building systems that matter • Crafting fun stuff I wan
 
 <br/>
 
+### 🎮 A bit about me
+
+I'm a gamer who breaks code, and a builder who crafts worlds. The line blurred a long time ago.
+
+When I’m not analyzing web app attack surfaces, running bug bounty recon, or wiring agentic workflows with LangGraph and local LLMs, you’ll usually find me:
+- **Tinkering with Game Mechanics:** Building 2D side-scrollers in Godot—obsessing over tight character controllers, camera lag, and seamless parallax loops.
+- **Deep in Gaming Worlds:** Parrying bosses in *Wuthering Waves*, navigating the tight combat of *Hollow Knight*, or strategizing team synergies in *Pokémon*. Great game design teaches systems thinking better than almost anything else.
+- **Off the Screen:** Hitting strength workouts at the gym, doing digital editing in Affinity Photo, or diving into cultivation mechanics in web novels like *Reverend Insanity*.
+
+<br/>
+
 <details>
 <summary>▶ <b>with my stack — why break when it can build?</b></summary>
 <br/>
 
 - Agentic orchestration using **LangGraph** & local LLM runtimes.
-- Automated web security workflows, bug bounty recon, and payload fuzzing.
-- Fast 2D mechanics, state machines, and shaders in **Godot**.
+- Web vulnerability research, reconnaissance pipelines, and security automation.
+- Custom game physics, state machines, and shaders in **Godot**.
 </details>
 
 <br/>
 
 ### 🛠 Featured projects
 
-| Project | What it does | Stars |
+| Project | What it does | Status / Stars |
 | :--- | :--- | :---: |
-| [`chloe-agent`](https://github.com/Abhishek-Gali) | Autonomous local agent orchestrator using LangGraph, vector stores, and custom execution tools. | ![Stars](https://img.shields.io/github/stars/Abhishek-Gali/chloe-agent?style=flat-square&label=%E2%9D%A4&color=e05263) |
-| [`driver-drowsiness-ml`](https://github.com/Abhishek-Gali) | Real-time computer vision and machine learning model detecting driver fatigue and alerting in milliseconds. | ![Stars](https://img.shields.io/github/stars/Abhishek-Gali/driver-drowsiness-ml?style=flat-square&label=%E2%9D%A4&color=e05263) |
-| [`vuln-recon-suite`](https://github.com/Abhishek-Gali) | Automated reconnaissance toolkit linking subdomain monitors, active takeover checks, and endpoint scans. | ![Stars](https://img.shields.io/github/stars/Abhishek-Gali/vuln-recon-suite?style=flat-square&label=%E2%9D%A4&color=e05263) |
-| [`side-scroller-godot`](https://github.com/Abhishek-Gali) | Custom 2D platformer engine built in GDScript featuring parallax backgrounds and fluid movement physics. | ![Stars](https://img.shields.io/github/stars/Abhishek-Gali/side-scroller-godot?style=flat-square&label=%E2%9D%A4&color=e05263) |
+| **`chloe-agent`** | Autonomous personal AI agent built with LangGraph, LlamaIndex, and local model orchestration. | ![Building](https://img.shields.io/badge/🚧-Building-30363d?style=flat-square) |
+| **`driver-drowsiness-ml`** | Real-time computer vision & ML model detecting driver fatigue and alertness thresholds. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
+| **`security-recon-suite`** | Automated recon pipeline linking subdomain enumeration, takeover checks, and endpoint scans. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
+| **`godot-2d-platformer`** | 2D side-scrolling platformer mechanics, custom parallax looping, and character state machines. | ![Building](https://img.shields.io/badge/🚧-Building-30363d?style=flat-square) |
+| **`career-in-cybersecurity`** | Scraper-driven job portal and backend pipeline aggregating cybersecurity positions. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
