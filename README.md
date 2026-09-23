@@ -44,11 +44,11 @@ Cybersecurity & AI • Building systems that matter • Crafting fun stuff I wan
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Infra & Tools</b></td>
+    <td align="right"><b>Infra & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
@@ -74,18 +74,20 @@ When I’m not analyzing web app attack surfaces, running bug bounty recon, or w
 <br/>
 
 - Agentic orchestration using **LangGraph** & local LLM runtimes.
-- Web vulnerability research, reconnaissance pipelines, and security automation.
-- Custom game physics, state machines, and shaders in **Godot**.
+- Web security scanners, brute-force simulation, and vulnerability research.
+- Full-stack career and resource aggregation engines deployed on the cloud.
 </details>
 
 <br/>
 
 ### 🛠 Featured projects
 
-| Project | What it does | Status / Stars |
+| Project | What it does | Live / Stars |
 | :--- | :--- | :---: |
-| **`chloe-agent`** | Autonomous personal AI agent built with LangGraph, LlamaIndex, and local model orchestration. | ![Building](https://img.shields.io/badge/🚧-Building-30363d?style=flat-square) |
+| [`career-learning-vault-web`](https://github.com/Abhishek-Gali/career-learning-vault-web) | Resource discovery & curated cybersecurity roadmap vault. Deployed on [Render](https://career-learning-vault.onrender.com). | [![Live Demo](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://career-learning-vault.onrender.com) |
+| [`Creditwise-Loan-ML`](https://github.com/Abhishek-Gali/Creditwise---an-Loan-Approval-Accessor-using-ML) | Machine learning engine for risk assessment and automated loan approval eligibility scoring. | [![Stars](https://img.shields.io/github/stars/Abhishek-Gali/Creditwise---an-Loan-Approval-Accessor-using-ML?style=flat-square&label=%E2%9D%A4&color=e05263)](https://github.com/Abhishek-Gali/Creditwise---an-Loan-Approval-Accessor-using-ML) |
+| [`Web-Vulnerability-scanner`](https://github.com/Abhishek-Gali/Web-Vulnerability-scanner-Mini-Project-with-Friends) | Security audit tool scanning web applications for common flaws, injection points, and misconfigurations. | [![Stars](https://img.shields.io/github/stars/Abhishek-Gali/Web-Vulnerability-scanner-Mini-Project-with-Friends?style=flat-square&label=%E2%9D%A4&color=e05263)](https://github.com/Abhishek-Gali/Web-Vulnerability-scanner-Mini-Project-with-Friends) |
+| [`Password-Brute-Force-Simulator`](https://github.com/Abhishek-Gali/Password-Brute-Force-Simulator) | Security simulation environment analyzing attack vector latency, entropy thresholds, and defense mechanisms. | [![Stars](https://img.shields.io/github/stars/Abhishek-Gali/Password-Brute-Force-Simulator?style=flat-square&label=%E2%9D%A4&color=e05263)](https://github.com/Abhishek-Gali/Password-Brute-Force-Simulator) |
+| **`chloe-agent`** | Autonomous local AI agent built with LangGraph, LlamaIndex, and local model orchestration. | ![Building](https://img.shields.io/badge/🚧-Building-30363d?style=flat-square) |
 | **`driver-drowsiness-ml`** | Real-time computer vision & ML model detecting driver fatigue and alertness thresholds. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
-| **`security-recon-suite`** | Automated recon pipeline linking subdomain enumeration, takeover checks, and endpoint scans. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
 | **`godot-2d-platformer`** | 2D side-scrolling platformer mechanics, custom parallax looping, and character state machines. | ![Building](https://img.shields.io/badge/🚧-Building-30363d?style=flat-square) |
-| **`career-in-cybersecurity`** | Scraper-driven job portal and backend pipeline aggregating cybersecurity positions. | ![Private](https://img.shields.io/badge/🔒-Private-21262d?style=flat-square) |
